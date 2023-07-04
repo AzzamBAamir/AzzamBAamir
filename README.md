@@ -13,19 +13,19 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
+        <!-- <th>My Blog</th> -->
+        <th>My Github</th>
         <th>My Website</th>
-        <th>My CV</th>
     </tr>
     <tr>
-        <td>
+         <!--<td>
             <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+        </td>-->
+        <td>
+            <a href="https://github.com/AzzamBAamir">🌐</a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://azzambinaamir.com">📃</a>
         </td>
     </tr>
 </table>
@@ -34,7 +34,7 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/azzam-bin-aamir/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
@@ -62,6 +62,7 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
+            -->
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
@@ -71,9 +72,7 @@
             <a href=""><img src=""/></a> -->
         </td>
     </tr>
-    <tr> -->
-
-    <!--
+    <tr>
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
