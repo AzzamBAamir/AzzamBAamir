@@ -71,7 +71,9 @@
             <a href=""><img src=""/></a> -->
         </td>
     </tr>
-    <tr>
+    <tr> -->
+
+    <!--
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
@@ -176,11 +178,11 @@
             <!-- <a href=""><img src=""/></a> -->
         </td>
     </tr>
-<!--</table> 
+<!--</table> -->
 
 <br/>
 
-### Support my Work
+<!--### Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a> -->
 
