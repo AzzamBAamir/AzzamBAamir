@@ -1,6 +1,9 @@
 
 # Hello there 👋, I'm Azzam Bin Aamir
 
+<!--### About me:
+<p>To This is a large block of text.</p>-->
+
 ### Data Science/Machine Learning/Astrophysics 
 
 - 🔭 I’m currently working on: __CNN+ML Paper & Data Science Consulting__ 
@@ -35,6 +38,7 @@
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/azzam-bin-aamir/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
 
 <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
@@ -173,10 +177,10 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a> -->
-            <!-- <a href=""><img src=""/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a> 
+             <a href=""><img src=""/></a> 
         </td>
-    </tr>
+    </tr> -->
 <!--</table> -->
 
 <br/>
